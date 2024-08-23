@@ -23,17 +23,6 @@ html {
   /* Efecto de Scroll */
 }
 
-/* Scroll Snap */
-
-.servicios,
-/* Seleccionamos donde queremos que se detenga */
-.navegacion-principal,
-.formulario {
-  scroll-snap-align: center;
-  scroll-snap-stop: always;
-}
-
-
 *,
 *:before,
 *:after {
